@@ -1,4 +1,11 @@
 ###################
+Cambiar la configuracion de base_url
+###################
+
+Cambiar el archivo application/config/config.php
+en la linea 26 poner la direccion de la en donde esta tu proyecto
+
+###################
 What is CodeIgniter
 ###################
 
